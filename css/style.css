@@ -423,7 +423,7 @@ h3 {
 .separador {
   background-image: url(../assets/our.jpg);
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url(/assets/bg.jpg);
+    url(/assets/our.jpg);
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
